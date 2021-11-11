@@ -51,7 +51,7 @@
     margin-bottom: 2px;
 }
 
-.header__menu-btn-line:last-child {
+.header__menu-btn-line div:last-child {
     margin-bottom: 0;
 }
 
